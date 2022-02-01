@@ -1,5 +1,7 @@
 
-
+class point {
+	int x, y;
+};
 
 int main() {
 
