@@ -15,5 +15,6 @@ public:
 int main() {
 
 	point p;
+	p.print();
 	return 0;
 }
