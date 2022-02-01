@@ -12,12 +12,16 @@ public:
 	}
 };
 
+class test {
 
+};
 
 int main() {
 
 	point p;
 	p.print();
+
+	cout << "vadum";
 
 	return 0;
 }
