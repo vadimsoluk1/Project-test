@@ -14,6 +14,6 @@ public:
 
 int main() {
 
-
+	point p;
 	return 0;
 }
